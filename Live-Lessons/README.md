@@ -106,3 +106,7 @@
 - Create a function that checks if a number is prime (challenging! Might require some extra Googling).
 - Use the `math` library (part of the Python standard library) to perform some advanced mathematical operation, such as the logarithm.
 - Rewrite the calculator from before to use functions.
+
+## Week 6 - Classes
+
+This will be a shorter lesson than usual. In this lesson, we're going to introduce the basic ways in which you can use classes in Python. 
