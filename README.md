@@ -1,17 +1,12 @@
 <div align=center>
 
-# 👾 Bootcamp
+# 👾 WDTS Big Data Science and Applications Summer School
 
 </div>
 
-Our objective is to help prepare the future United States Department of Energy computer and computational science workforce. This includes:
+The Big Data Science and Applications (BDSA) Summer School provides graduated high school seniors and college freshman an immersive experience in computational science, including artificial intelligence and machine learning (AI/ML) applications in big data (BD) analysis. Students will spend five weeks onsite at either Brookhaven National Laboratory (BNL) or Thomas Jefferson National Accelerator Facility (JLab) beginning with participation in a three-week BD/AI/ML boot camp. The boot camp is designed to build computer science skills and provide foundational levels of BD/AI/ML knowledge through a series of hands-on coding experiences guided by subject matter experts from BNL and JLab. Following, students will utilize their acquired skills and knowledge to collaborate on projects that highlight the topics covered during the bootcamp. These projects may also align with the Electron-Ion Collider and Genesis Mission — efforts that are a focus at both laboratories — and will be developed in partnership across the two labs. At the conclusion of the program, participants will present their research to STEM faculty and their peers.
 
-* Potential or incoming undergraduate interns, part of e.g. [SULI](https://science.osti.gov/wdts/suli) and [CCI](https://science.osti.gov/wdts/cci) programs;
-* High school students (possibly preparing for a Brookhaven National Laboratory [HSRP](https://www.bnl.gov/education/programs/program.php?q=219) program or related);
-* Interested staff, postdocs and graduate students;
-* The public in general!
-
-We will cover the basic numerical and machine learning skills needed to succeed on computing projects, as well as link to curated external resources. It is intended for students and professionals at all levels, and assumes little-to-no knowledge of Python or machine learning concepts. Enjoy!
+The following boot camp modules will cover the basic numerical and machine learning skills needed to succeed on computing projects, as well as link to curated external resources. It is intended for students at all levels, and assumes little-to-no knowledge of Python or machine learning concepts. Enjoy!
 
 # 📕 Overview
 
