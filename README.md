@@ -15,8 +15,11 @@ The following boot camp modules will cover the basic numerical and machine learn
 
 > [!important]
 > All of our tutorials are presented using [Google Colaboratory](https://colab.research.google.com/). It's a simple way to run [Jupyter](https://jupyter.org/) Notebooks in the cloud, and requires zero local installations! Each module has links in the the respective `README.md` files which open the notebook in Google "Colab". From there, you can save the notebook to your own Google Drive. To do this from an open Google Colab instance, first ensure you're signed in (profile in the top right), then simply click "File" at the top left, then click "Save a copy in Drive", which will automatically open a new copy of the notebook, one which was saved to your personal Drive! That way you don't lose any progress.
+>
+## Modules
 
-## Basic Python, data science, and machine learning
+
+## Matt Carbone's Curriculum: (for reference)
 
 If you are new to these concepts, start here!
 
@@ -25,10 +28,6 @@ If you are new to these concepts, start here!
 3. [Introduction to machine learning (conceptual) & introduction to supervised machine learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/03_Introduction_to_Machine_Learning/README.md) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/3)]
 4. [Intermediate supervised machine learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/04_Intermediate_Machine_Learning/README.md) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/4)]
 5. [Introduction to unsupervised learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/05_Introduction_to_Unsupervised_Learning/README.md) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/5)]
-
-## Machine learning today
-🚀 Coming soon!
-
 6. Neural networks from scratch [[doc](https://github.com/matthewcarbone/Bootcamp/issues/6)]
 7. Introduction to PyTorch and deep learning libraries
 8. Convolutional neural networks and practical GPU training
