@@ -17,7 +17,13 @@ The following boot camp modules will cover the basic numerical and machine learn
 > All of our tutorials are presented using [Google Colaboratory](https://colab.research.google.com/). It's a simple way to run [Jupyter](https://jupyter.org/) Notebooks in the cloud, and requires zero local installations! Each module has links in the the respective `README.md` files which open the notebook in Google "Colab". From there, you can save the notebook to your own Google Drive. To do this from an open Google Colab instance, first ensure you're signed in (profile in the top right), then simply click "File" at the top left, then click "Save a copy in Drive", which will automatically open a new copy of the notebook, one which was saved to your personal Drive! That way you don't lose any progress.
 >
 ## Modules
+Module 0 Mathematical Prerequisites
 [Module 1](https://colab.research.google.com/drive/1rHE-Z4glrYkwOQ2CSlvNewoo6fkrNW46?usp=drive_link) Hello World and Python Environment
+[Module 2](https://colab.research.google.com/drive/1HSIPhPpgMF0MLjb-RY6mYjpI6AXr0abp?usp=sharing) Data Structures
+[Module 3](https://colab.research.google.com/drive/1pUfRx5WTnxVO_lwoDf_SdFMw616QmWAd?usp=sharing) Control Flow
+[Module 4](https://colab.research.google.com/drive/1T9DeAYh8jlKY0Nu_PhrPujE8u_eV_TdT?usp=sharing) Functions, Modules, and Classes
+Module 5 File Systems, Paths, and Managing Data on Disk
+[Module 6](https://colab.research.google.com/drive/1aih_AuTUjSZJ0WLhio5smGtSysxK2Eqp?usp=sharing) NumPy
 
 ## Matt Carbone's Curriculum: (for reference)
 
