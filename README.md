@@ -23,21 +23,21 @@ Module 0  - Mathematical Prerequisites
 [Module 3](https://colab.research.google.com/drive/1pUfRx5WTnxVO_lwoDf_SdFMw616QmWAd?usp=sharing)  - Control Flow & Importing Libraries 
 [Module 4](https://colab.research.google.com/drive/1T9DeAYh8jlKY0Nu_PhrPujE8u_eV_TdT?usp=sharing)  - Functions, Modules, and Classes  
 Module 5  - File Systems, Paths, and Managing Data on Disk  
-[Module 6](https://colab.research.google.com/drive/1aih_AuTUjSZJ0WLhio5smGtSysxK2Eqp?usp=sharing)  - NumPy
-Module 7 - Intro to pandas and Tabular Data Analysis
-Module 8 - Intro to Plotting with matplotlib
-Module 9 - Advanced Data Analysis and Visualization Techniques
-[Module 10](https://colab.research.google.com/drive/1Gw0j23F-IectCkYIlcpNMYT_zL_OL7EC?usp=sharing)  - Demonstrations of Applied Use
-Module 11 - Intro to git
-Module 12 - Intro to scikit-learn and ML Workflow
-Module 13 - Feature Engineering and Data Processing
-Module 14 - Model Selection and Hyperparameter Tuning
-Module 15 - Fundamentals of Regression
-Module 16 - Fundamentals of Classification
-Module 17 - Intro to Neural Networks
-Module 18 - Intro to Unsupervised Learning Models
-Module 19 - Real-World Project Example 1
-Module 20 - Real-World Project Example 2
+[Module 6](https://colab.research.google.com/drive/1aih_AuTUjSZJ0WLhio5smGtSysxK2Eqp?usp=sharing)  - NumPy  
+Module 7 - Intro to pandas and Tabular Data Analysis  
+Module 8 - Intro to Plotting with matplotlib  
+Module 9 - Advanced Data Analysis and Visualization Techniques  
+[Module 10](https://colab.research.google.com/drive/1Gw0j23F-IectCkYIlcpNMYT_zL_OL7EC?usp=sharing)  - Demonstrations of Applied Use  
+Module 11 - Intro to git  
+Module 12 - Intro to scikit-learn and ML Workflow  
+Module 13 - Feature Engineering and Data Processing  
+Module 14 - Model Selection and Hyperparameter Tuning  
+Module 15 - Fundamentals of Regression  
+Module 16 - Fundamentals of Classification  
+Module 17 - Intro to Neural Networks  
+Module 18 - Intro to Unsupervised Learning Models  
+Module 19 - Real-World Project Example 1  
+Module 20 - Real-World Project Example 2  
 
 
 ## Matt Carbone's Curriculum: (for reference)
