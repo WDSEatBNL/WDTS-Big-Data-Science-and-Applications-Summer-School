@@ -36,7 +36,7 @@ Module 15 - Fundamentals of Regression
 Module 16 - Fundamentals of Classification  
 Module 17 - Intro to Neural Networks  
 [Module 18 Part A](https://colab.research.google.com/drive/1YUlVYmZo-OCGPfTMZdaLDgvs9r21PF-j?usp=sharing) - Intro to Unsupervised Learning Models  
-[Module 18 Part B](https://colab.research.google.com/drive/1OZligvPaOFlgTlRVSi1jekIGCZ5jIKHe?usp=sharing) - Unsupervised Learning Models Using AutoEncoders
+[Module 18 Part B](https://colab.research.google.com/drive/1OZligvPaOFlgTlRVSi1jekIGCZ5jIKHe?usp=sharing) - Unsupervised Learning Models Using AutoEncoders  
 Module 19 - Real-World Project Example 1  
 Module 20 - Real-World Project Example 2  
 
