@@ -25,45 +25,21 @@ Module 0  - Mathematical Prerequisites
 Module 5  - File Systems, Paths, and Managing Data on Disk  
 [Module 6](https://colab.research.google.com/drive/10N--rwOUHplzMKgcBJZDUffFNLtVbLd8?usp=sharing)  - NumPy  
 Module 7 - Intro to pandas and Tabular Data Analysis  
-Module 8 - Intro to Plotting with matplotlib  
-Module 9 - Advanced Data Analysis and Visualization Techniques  
+[Module 8](https://colab.research.google.com/drive/1h49ZbW9acz40eiOAo-o1sXFZ0mavQfmt?usp=sharing) - Intro to Plotting with matplotlib  
+[Module 9](https://colab.research.google.com/drive/160EZ97fEaqVSyvfrBY0l8Y5_-0au5A9B?usp=sharing) - Advanced Data Analysis and Visualization Techniques  
 [Module 10](https://colab.research.google.com/drive/1Gw0j23F-IectCkYIlcpNMYT_zL_OL7EC?usp=sharing)  - Demonstrations of Applied Use  
-Module 11 - Intro to git  
+[Module 11](https://colab.research.google.com/drive/1IafNLVopzFQQa530skEcVTlWTHIAzCeQ?usp=sharing) - Intro to git  
 Module 12 - Intro to scikit-learn and ML Workflow  
 Module 13 - Feature Engineering and Data Processing  
 Module 14 - Model Selection and Hyperparameter Tuning  
 Module 15 - Fundamentals of Regression  
 Module 16 - Fundamentals of Classification  
 Module 17 - Intro to Neural Networks  
-Module 18 - Intro to Unsupervised Learning Models  
+[Module 18 Part A](https://colab.research.google.com/drive/1YUlVYmZo-OCGPfTMZdaLDgvs9r21PF-j?usp=sharing) - Intro to Unsupervised Learning Models  
+[Module 18 Part B](https://colab.research.google.com/drive/1OZligvPaOFlgTlRVSi1jekIGCZ5jIKHe?usp=sharing) - Unsupervised Learning Models Using AutoEncoders
 Module 19 - Real-World Project Example 1  
 Module 20 - Real-World Project Example 2  
 
-
-## Matt Carbone's Curriculum: (for reference)
-
-If you are new to these concepts, start here!
-
-1. [Python crash course](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/01_Introduction_to_Python/README.md) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/1)]
-2. [Introduction to NumPy, tabular data, and visualization](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/02_Tabular_Data/README.md) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/2)]
-3. [Introduction to machine learning (conceptual) & introduction to supervised machine learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/03_Introduction_to_Machine_Learning/README.md) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/3)]
-4. [Intermediate supervised machine learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/04_Intermediate_Machine_Learning/README.md) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/4)]
-5. [Introduction to unsupervised learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/05_Introduction_to_Unsupervised_Learning/README.md) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/5)]
-6. Neural networks from scratch [[doc](https://github.com/matthewcarbone/Bootcamp/issues/6)]
-7. Introduction to PyTorch and deep learning libraries
-8. Convolutional neural networks and practical GPU training
-9. [Introduction to transformer-based architectures](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/09_Transformer-based_Architectures)
-
-
-# 💲 Funding Acknowledgement
-
-> [!NOTE]
-> This was originally created as a 2-week AI/ML bootcamp for the Rising STEM Scholars program.
-
-The development of this content is partly supported by the Brookhaven National Laboratory Center for Computing Sciences Education and Support (CCSES), and by Brookhaven National Laboratory under Contract No. DE-SC0012704.
-
-The Software resulted from work developed under a U.S. Government Contract No. DE-SC0012704 and are subject to the following terms: the U.S. Government is granted for itself and others acting on its behalf a paid-up, nonexclusive, irrevocable worldwide license in this computer software and data to reproduce, prepare derivative works, and perform publicly and display publicly.
-
-THE SOFTWARE IS SUPPLIED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE UNITED STATES, THE UNITED STATES DEPARTMENT OF ENERGY, AND THEIR EMPLOYEES: (1) DISCLAIM ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT, (2) DO NOT ASSUME ANY LEGAL LIABILITY OR RESPONSIBILITY FOR THE ACCURACY, COMPLETENESS, OR USEFULNESS OF THE SOFTWARE, (3) DO NOT REPRESENT THAT USE OF THE SOFTWARE WOULD NOT INFRINGE PRIVATELY OWNED RIGHTS, (4) DO NOT WARRANT THAT THE SOFTWARE WILL FUNCTION UNINTERRUPTED, THAT IT IS ERROR-FREE OR THAT ANY ERRORS WILL BE CORRECTED.
-
-IN NO EVENT SHALL THE UNITED STATES, THE UNITED STATES DEPARTMENT OF ENERGY, OR THEIR EMPLOYEES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES OF ANY KIND OR NATURE RESULTING FROM EXERCISE OF THIS LICENSE AGREEMENT OR THE USE OF THE SOFTWARE.
+## Domain Science Activities
+BNL  
+JLab  
