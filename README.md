@@ -21,7 +21,7 @@ Module 0  - Mathematical Prerequisites
 [Module 1](https://colab.research.google.com/drive/1rHE-Z4glrYkwOQ2CSlvNewoo6fkrNW46?usp=drive_link)  - Hello World and Python Environment  
 [Module 2](https://colab.research.google.com/drive/1HSIPhPpgMF0MLjb-RY6mYjpI6AXr0abp?usp=sharing)  - Data Structures  
 [Module 3](https://colab.research.google.com/drive/1pUfRx5WTnxVO_lwoDf_SdFMw616QmWAd?usp=sharing)  - Control Flow & Importing Libraries  
-[Module 4](https://colab.research.google.com/drive/1T9DeAYh8jlKY0Nu_PhrPujE8u_eV_TdT?usp=sharing)  - Functions, Classes, and Modules 
+[Module 4](https://colab.research.google.com/drive/1T9DeAYh8jlKY0Nu_PhrPujE8u_eV_TdT?usp=sharing)  - Functions, Classes, and Modules  
 Module 5  - File Systems, Paths, and Managing Data on Disk  
 [Module 6](https://colab.research.google.com/drive/10N--rwOUHplzMKgcBJZDUffFNLtVbLd8?usp=sharing)  - NumPy  
 Module 7 - Intro to pandas and Tabular Data Analysis  
