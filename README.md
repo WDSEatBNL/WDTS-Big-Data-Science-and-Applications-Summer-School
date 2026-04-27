@@ -23,7 +23,7 @@ Module 0  - Mathematical Prerequisites
 [Module 3](https://colab.research.google.com/drive/1pUfRx5WTnxVO_lwoDf_SdFMw616QmWAd?usp=sharing)  - Control Flow & Importing Libraries  
 [Module 4](https://colab.research.google.com/drive/1T9DeAYh8jlKY0Nu_PhrPujE8u_eV_TdT?usp=sharing)  - Functions, Classes, and Modules  
 Module 5  - File Systems, Paths, and Managing Data on Disk  
-[Module 6](https://colab.research.google.com/drive/10N--rwOUHplzMKgcBJZDUffFNLtVbLd8?usp=sharing)  - NumPy  
+[Module 6](https://colab.research.google.com/drive/10N--rwOUHplzMKgcBJZDUffFNLtVbLd8?usp=sharing)  - NumPy  ([Answers](https://colab.research.google.com/drive/1eRyz2D8v3qtnG-L7iwc4YjUkgwvsqVGX?usp=sharing))  
 Module 7 - Intro to pandas and Tabular Data Analysis  
 [Module 8](https://colab.research.google.com/drive/1h49ZbW9acz40eiOAo-o1sXFZ0mavQfmt?usp=sharing) - Intro to Plotting with matplotlib  
 [Module 9](https://colab.research.google.com/drive/160EZ97fEaqVSyvfrBY0l8Y5_-0au5A9B?usp=sharing) - Advanced Data Analysis and Visualization Techniques  
