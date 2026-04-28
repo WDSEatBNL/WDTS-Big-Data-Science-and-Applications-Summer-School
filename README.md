@@ -27,7 +27,7 @@ Module 5  - File Systems, Paths, and Managing Data on Disk
 Module 7 - Intro to pandas and Tabular Data Analysis  
 [Module 8](https://colab.research.google.com/drive/1h49ZbW9acz40eiOAo-o1sXFZ0mavQfmt?usp=sharing) - Intro to Plotting with matplotlib  
 [Module 9](https://colab.research.google.com/drive/160EZ97fEaqVSyvfrBY0l8Y5_-0au5A9B?usp=sharing) - Advanced Data Analysis and Visualization Techniques  
-[Module 10](https://colab.research.google.com/drive/1Gw0j23F-IectCkYIlcpNMYT_zL_OL7EC?usp=sharing)  - Demonstrations of Applied Use  ([Amswers](https://colab.research.google.com/drive/1kvh9aaFE7wSh4t4uQDfm-Af05MB1nlR9?usp=sharing))  
+[Module 10](https://colab.research.google.com/drive/1Gw0j23F-IectCkYIlcpNMYT_zL_OL7EC?usp=sharing)  - Demonstrations of Applied Use  ([Answers](https://colab.research.google.com/drive/1kvh9aaFE7wSh4t4uQDfm-Af05MB1nlR9?usp=sharing))  
 [Module 11](https://colab.research.google.com/drive/1IafNLVopzFQQa530skEcVTlWTHIAzCeQ?usp=sharing) - Intro to git  
 [Module 12](https://colab.research.google.com/drive/1OtS9Iuyr-rgT8k8IIkxa7aFOoSqOVpGe?usp=sharing) - Intro to scikit-learn and ML Workflow  
 Module 13 - Feature Engineering and Data Processing  
