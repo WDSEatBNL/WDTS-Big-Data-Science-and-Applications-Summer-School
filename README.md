@@ -29,7 +29,7 @@ Module 7 - Intro to pandas and Tabular Data Analysis
 [Module 9](https://colab.research.google.com/drive/160EZ97fEaqVSyvfrBY0l8Y5_-0au5A9B?usp=sharing) - Advanced Data Analysis and Visualization Techniques  
 [Module 10](https://colab.research.google.com/drive/1Gw0j23F-IectCkYIlcpNMYT_zL_OL7EC?usp=sharing)  - Demonstrations of Applied Use  
 [Module 11](https://colab.research.google.com/drive/1IafNLVopzFQQa530skEcVTlWTHIAzCeQ?usp=sharing) - Intro to git  
-Module 12 - Intro to scikit-learn and ML Workflow  
+[Module 12](https://drive.google.com/file/d/1OtS9Iuyr-rgT8k8IIkxa7aFOoSqOVpGe/view?usp=sharing) - Intro to scikit-learn and ML Workflow  
 Module 13 - Feature Engineering and Data Processing  
 Module 14 - Model Selection and Hyperparameter Tuning  
 Module 15 - Fundamentals of Regression  
