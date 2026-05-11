@@ -38,7 +38,7 @@ Module 17 - Intro to Neural Networks
 [Module 18 Part A](https://colab.research.google.com/drive/1YUlVYmZo-OCGPfTMZdaLDgvs9r21PF-j?usp=sharing) - Intro to Unsupervised Learning Models  
 [Module 18 Part B](https://colab.research.google.com/drive/1OZligvPaOFlgTlRVSi1jekIGCZ5jIKHe?usp=sharing) - Unsupervised Learning Models Using AutoEncoders  
 Module 19 - Real-World Project Example 1  
-Module 20 - Real-World Project Example 2  
+[Module 20 - Real-World Project Example 2](https://colab.research.google.com/drive/13ndZW3uSS__amsRarEeHxzkoVic-kSGO?usp=drive_link) - Exoplanets  
 
 ## Domain Science Activities
 BNL  
