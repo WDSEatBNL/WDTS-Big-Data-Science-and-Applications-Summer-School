@@ -34,7 +34,8 @@ Module 13 - Feature Engineering and Data Processing
 Module 14 - Model Selection and Hyperparameter Tuning  
 Module 15 - Fundamentals of Regression  
 Module 16 - Fundamentals of Classification  
-Module 17 - Intro to Neural Networks  
+[Module 17 Part A](https://colab.research.google.com/drive/1zkCcST1uvPLBBoe3z-o7sJ_ICwE1sPCR?usp=sharing) - Intro to Deep Neural Networks  
+[Module 17 Part B](https://colab.research.google.com/drive/1B9pB64zy-DY1dOBuV6SnaVnVkeQY6Tww?usp=sharing) - Intro to Convolutional Neural Networks  
 [Module 18 Part A](https://colab.research.google.com/drive/1YUlVYmZo-OCGPfTMZdaLDgvs9r21PF-j?usp=sharing) - Intro to Unsupervised Learning Models  
 [Module 18 Part B](https://colab.research.google.com/drive/1OZligvPaOFlgTlRVSi1jekIGCZ5jIKHe?usp=sharing) - Unsupervised Learning Models Using AutoEncoders  
 Module 19 - Real-World Project Example 1  
