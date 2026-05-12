@@ -41,7 +41,7 @@ Module 17 - Fundamentals of Classification
 [Module 19 Part A](https://colab.research.google.com/drive/1YUlVYmZo-OCGPfTMZdaLDgvs9r21PF-j?usp=sharing) - Intro to Unsupervised Learning Models  
 [Module 19 Part B](https://colab.research.google.com/drive/1OZligvPaOFlgTlRVSi1jekIGCZ5jIKHe?usp=sharing) - Unsupervised Learning Models Using AutoEncoders  
 Module 20 - Real-World Project Example 1  
-[Module 21](https://colab.research.google.com/drive/13ndZW3uSS__amsRarEeHxzkoVic-kSGO?usp=drive_link) Real-World Project Example 2 - Exoplanets  
+[Module 21](https://colab.research.google.com/drive/13ndZW3uSS__amsRarEeHxzkoVic-kSGO?usp=drive_link) - Real-World Project Example 2 - Exoplanets  
 
 ## Domain Science Activities
 BNL  
