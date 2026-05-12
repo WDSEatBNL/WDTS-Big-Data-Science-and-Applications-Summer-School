@@ -29,17 +29,19 @@ Module 7 - Intro to pandas and Tabular Data Analysis
 [Module 9](https://colab.research.google.com/drive/160EZ97fEaqVSyvfrBY0l8Y5_-0au5A9B?usp=sharing) - Advanced Data Analysis and Visualization Techniques  
 [Module 10](https://colab.research.google.com/drive/1Gw0j23F-IectCkYIlcpNMYT_zL_OL7EC?usp=sharing)  - Demonstrations of Applied Use  ([Answers](https://colab.research.google.com/drive/1kvh9aaFE7wSh4t4uQDfm-Af05MB1nlR9?usp=sharing))  
 [Module 11](https://colab.research.google.com/drive/1IafNLVopzFQQa530skEcVTlWTHIAzCeQ?usp=sharing) - Intro to git  
-[Module 12](https://colab.research.google.com/drive/1OtS9Iuyr-rgT8k8IIkxa7aFOoSqOVpGe?usp=sharing) - Intro to scikit-learn and ML Workflow  
-Module 13 - Feature Engineering and Data Processing  
-Module 14 - Model Selection and Hyperparameter Tuning  
-Module 15 - Fundamentals of Regression  
-Module 16 - Fundamentals of Classification  
-[Module 17 Part A](https://colab.research.google.com/drive/1zkCcST1uvPLBBoe3z-o7sJ_ICwE1sPCR?usp=sharing) - Intro to Deep Neural Networks  
-[Module 17 Part B](https://colab.research.google.com/drive/1B9pB64zy-DY1dOBuV6SnaVnVkeQY6Tww?usp=sharing) - Intro to Convolutional Neural Networks  
-[Module 18 Part A](https://colab.research.google.com/drive/1YUlVYmZo-OCGPfTMZdaLDgvs9r21PF-j?usp=sharing) - Intro to Unsupervised Learning Models  
-[Module 18 Part B](https://colab.research.google.com/drive/1OZligvPaOFlgTlRVSi1jekIGCZ5jIKHe?usp=sharing) - Unsupervised Learning Models Using AutoEncoders  
-Module 19 - Real-World Project Example 1  
-[Module 20 - Real-World Project Example 2](https://colab.research.google.com/drive/13ndZW3uSS__amsRarEeHxzkoVic-kSGO?usp=drive_link) - Exoplanets  
+[Module 12 Part A](https://colab.research.google.com/drive/1vR98Yr33iwiDEaCKUVbZrKh_aIc_IVWp?usp=sharing) - Intro to ML/AI Part A  
+[Module 12 Part B](https://colab.research.google.com/drive/1R4P39o2MAb1C1_IrjM0jsMcmjG6VpolS?usp=sharing) - Intro to ML/AI Part B  
+[Module 13](https://colab.research.google.com/drive/1OtS9Iuyr-rgT8k8IIkxa7aFOoSqOVpGe?usp=sharing) - Intro to scikit-learn and ML Workflow  
+Module 14 - Feature Engineering and Data Processing  
+Module 15 - Model Selection and Hyperparameter Tuning  
+Module 16 - Fundamentals of Regression  
+Module 17 - Fundamentals of Classification  
+[Module 18 Part A](https://colab.research.google.com/drive/1zkCcST1uvPLBBoe3z-o7sJ_ICwE1sPCR?usp=sharing) - Intro to Deep Neural Networks ([slides](https://docs.google.com/presentation/d/16p1BZdwpnv3WqqBYFD4kHb4-WS4vG8ZCKyFJ6oc1eX4/edit?usp=sharing))  
+[Module 18 Part B](https://colab.research.google.com/drive/1B9pB64zy-DY1dOBuV6SnaVnVkeQY6Tww?usp=sharing) - Intro to Convolutional Neural Networks ([slides](https://docs.google.com/presentation/d/1DQoJV03QaPA_0xvZhy-Ts3EIm767njAcHOYnB16Lkxs/edit?usp=sharing))  
+[Module 19 Part A](https://colab.research.google.com/drive/1YUlVYmZo-OCGPfTMZdaLDgvs9r21PF-j?usp=sharing) - Intro to Unsupervised Learning Models  
+[Module 19 Part B](https://colab.research.google.com/drive/1OZligvPaOFlgTlRVSi1jekIGCZ5jIKHe?usp=sharing) - Unsupervised Learning Models Using AutoEncoders  
+Module 20 - Real-World Project Example 1  
+[Module 21 - Real-World Project Example 2](https://colab.research.google.com/drive/13ndZW3uSS__amsRarEeHxzkoVic-kSGO?usp=drive_link) - Exoplanets  
 
 ## Domain Science Activities
 BNL  
