@@ -18,7 +18,7 @@ The following boot camp modules will cover the basic numerical and machine learn
 >
 ## Modules
 [Module 0](https://colab.research.google.com/drive/1izCX-gySmKfvEAMgkVnMGZlFL3uhLJtG?usp=sharing)  - Mathematical Prerequisites  
-[Module 1](https://colab.research.google.com/drive/1rHE-Z4glrYkwOQ2CSlvNewoo6fkrNW46?usp=drive_link)  - Hello World and Python Environment  
+[Module 1](https://colab.research.google.com/drive/1rHE-Z4glrYkwOQ2CSlvNewoo6fkrNW46?usp=sharing)  - Hello World and Python Environment  
 [Module 2](https://colab.research.google.com/drive/1HSIPhPpgMF0MLjb-RY6mYjpI6AXr0abp?usp=sharing)  - Data Structures  
 [Module 3](https://colab.research.google.com/drive/1pUfRx5WTnxVO_lwoDf_SdFMw616QmWAd?usp=sharing)  - Control Flow & Importing Libraries  
 [Module 4](https://colab.research.google.com/drive/1T9DeAYh8jlKY0Nu_PhrPujE8u_eV_TdT?usp=sharing)  - Functions, Classes, and Modules  
@@ -41,7 +41,7 @@ Module 17 - Fundamentals of Classification
 [Module 19 Part A](https://colab.research.google.com/drive/1YUlVYmZo-OCGPfTMZdaLDgvs9r21PF-j?usp=sharing) - Intro to Unsupervised Learning Models  
 [Module 19 Part B](https://colab.research.google.com/drive/1OZligvPaOFlgTlRVSi1jekIGCZ5jIKHe?usp=sharing) - Unsupervised Learning Models Using AutoEncoders  
 Module 20 - Real-World Project Example 1  
-[Module 21](https://colab.research.google.com/drive/13ndZW3uSS__amsRarEeHxzkoVic-kSGO?usp=drive_link) - Real-World Project Example 2 - Exoplanets  
+[Module 21](https://colab.research.google.com/drive/13ndZW3uSS__amsRarEeHxzkoVic-kSGO?usp=sharing) - Real-World Project Example 2 - Exoplanets  
 
 ## Domain Science Activities
 BNL  
