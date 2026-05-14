@@ -17,14 +17,14 @@ The following boot camp modules will cover the basic numerical and machine learn
 > All of our tutorials are presented using [Google Colaboratory](https://colab.research.google.com/). It's a simple way to run [Jupyter](https://jupyter.org/) Notebooks in the cloud, and requires zero local installations! Each module has links in the the respective `README.md` files which open the notebook in Google "Colab". From there, you can save the notebook to your own Google Drive. To do this from an open Google Colab instance, first ensure you're signed in (profile in the top right), then simply click "File" at the top left, then click "Save a copy in Drive", which will automatically open a new copy of the notebook, one which was saved to your personal Drive! That way you don't lose any progress.
 >
 ## Modules
-Module 0  - Mathematical Prerequisites  
+[Module 0](https://colab.research.google.com/drive/1izCX-gySmKfvEAMgkVnMGZlFL3uhLJtG?usp=sharing)  - Mathematical Prerequisites  
 [Module 1](https://colab.research.google.com/drive/1rHE-Z4glrYkwOQ2CSlvNewoo6fkrNW46?usp=drive_link)  - Hello World and Python Environment  
 [Module 2](https://colab.research.google.com/drive/1HSIPhPpgMF0MLjb-RY6mYjpI6AXr0abp?usp=sharing)  - Data Structures  
 [Module 3](https://colab.research.google.com/drive/1pUfRx5WTnxVO_lwoDf_SdFMw616QmWAd?usp=sharing)  - Control Flow & Importing Libraries  
 [Module 4](https://colab.research.google.com/drive/1T9DeAYh8jlKY0Nu_PhrPujE8u_eV_TdT?usp=sharing)  - Functions, Classes, and Modules  
-Module 5  - File Systems, Paths, and Managing Data on Disk  
+[Module 5](https://colab.research.google.com/drive/1HlmEdMy7-RMzvngbJTVxEaapG5DXbsVq?usp=sharing)  - File Systems, Paths, and Managing Data on Disk  
 [Module 6](https://colab.research.google.com/drive/10N--rwOUHplzMKgcBJZDUffFNLtVbLd8?usp=sharing)  - NumPy  ([Answers](https://colab.research.google.com/drive/1eRyz2D8v3qtnG-L7iwc4YjUkgwvsqVGX?usp=sharing))  
-Module 7 - Intro to pandas and Tabular Data Analysis  
+[Module 7](https://colab.research.google.com/drive/1acwQ8hl_2bpxYg5OqGoR4_kYvXednpZ6?usp=sharing) - Intro to pandas and Tabular Data Analysis  
 [Module 8](https://colab.research.google.com/drive/1h49ZbW9acz40eiOAo-o1sXFZ0mavQfmt?usp=sharing) - Intro to Plotting with matplotlib  
 [Module 9](https://colab.research.google.com/drive/160EZ97fEaqVSyvfrBY0l8Y5_-0au5A9B?usp=sharing) - Advanced Data Analysis and Visualization Techniques  
 [Module 10](https://colab.research.google.com/drive/1Gw0j23F-IectCkYIlcpNMYT_zL_OL7EC?usp=sharing)  - Demonstrations of Applied Use  ([Answers](https://colab.research.google.com/drive/1kvh9aaFE7wSh4t4uQDfm-Af05MB1nlR9?usp=sharing))  
