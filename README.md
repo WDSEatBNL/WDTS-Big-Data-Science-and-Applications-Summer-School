@@ -20,7 +20,7 @@ The following boot camp modules will cover the basic numerical and machine learn
 [Module 0](https://colab.research.google.com/drive/1izCX-gySmKfvEAMgkVnMGZlFL3uhLJtG?usp=sharing)  - Mathematical Prerequisites  
 [Module 1](https://colab.research.google.com/drive/1rHE-Z4glrYkwOQ2CSlvNewoo6fkrNW46?usp=sharing)  - Hello World and Python Environment  
 [Module 2](https://colab.research.google.com/drive/1HSIPhPpgMF0MLjb-RY6mYjpI6AXr0abp?usp=sharing)  - Data Structures  
-[Module 3](https://colab.research.google.com/drive/1pUfRx5WTnxVO_lwoDf_SdFMw616QmWAd?usp=sharing)  - Control Flow & Importing Libraries  
+[Module 3](https://colab.research.google.com/drive/1pUfRx5WTnxVO_lwoDf_SdFMw616QmWAd?usp=sharing)  - Control Flow & Importing Libraries  ([Answers](https://colab.research.google.com/drive/1QoEjFj9tRzMQTB8cwpmt-xHVzZiEl1Jo?usp=sharing))  
 [Module 4](https://colab.research.google.com/drive/1T9DeAYh8jlKY0Nu_PhrPujE8u_eV_TdT?usp=sharing)  - Functions, Classes, and Modules  
 [Module 5](https://colab.research.google.com/drive/1HlmEdMy7-RMzvngbJTVxEaapG5DXbsVq?usp=sharing)  - File Systems, Paths, and Managing Data on Disk  
 [Module 6](https://colab.research.google.com/drive/10N--rwOUHplzMKgcBJZDUffFNLtVbLd8?usp=sharing)  - NumPy  ([Answers](https://colab.research.google.com/drive/1eRyz2D8v3qtnG-L7iwc4YjUkgwvsqVGX?usp=sharing))  
