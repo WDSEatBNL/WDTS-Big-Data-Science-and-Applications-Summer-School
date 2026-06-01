@@ -44,5 +44,4 @@ Module 20 - Real-World Project Example 1
 [Module 21](https://colab.research.google.com/drive/13ndZW3uSS__amsRarEeHxzkoVic-kSGO?usp=sharing) - Real-World Project Example 2 - Exoplanets  
 
 ## Domain Science Activities
-BNL  
-JLab  
+[NNDC NuDat Example](https://colab.research.google.com/drive/1qkIfA7QdCyw_XC7_ZHMPbcI09sWY5TCQ?usp=sharing) - Nucleus Stability Classifier  
