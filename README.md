@@ -35,7 +35,7 @@ The following boot camp modules will cover the basic numerical and machine learn
 [Module 14](https://colab.research.google.com/drive/14BYvXyDfxq-qukEjpNSJSz7GG4TrtWB9?usp=sharing) - Feature Engineering and Data Processing  
 [Module 15](https://colab.research.google.com/drive/1eA4LosRHl1yLCpDb8x5SAFKRpcdaKqYy?usp=sharing) - Model Selection and Hyperparameter Tuning  
 [Module 16](https://colab.research.google.com/drive/1qv5GvGXypJyn-VxV_goUmETjXno6flHV?usp=sharing) - Fundamentals of Regression  
-Module 17 - Fundamentals of Classification  
+[Module 17](https://colab.research.google.com/drive/1-COTqGtjTNAs69gV1u44eszdSTMlaA4I?usp=sharing) - Fundamentals of Classification  
 [Module 18 Part A](https://colab.research.google.com/drive/1zkCcST1uvPLBBoe3z-o7sJ_ICwE1sPCR?usp=sharing) - Intro to Deep Neural Networks ([slides](https://docs.google.com/presentation/d/16p1BZdwpnv3WqqBYFD4kHb4-WS4vG8ZCKyFJ6oc1eX4/edit?usp=sharing))  
 [Module 18 Part B](https://colab.research.google.com/drive/1B9pB64zy-DY1dOBuV6SnaVnVkeQY6Tww?usp=sharing) - Intro to Convolutional Neural Networks ([slides](https://docs.google.com/presentation/d/1DQoJV03QaPA_0xvZhy-Ts3EIm767njAcHOYnB16Lkxs/edit?usp=sharing))  
 [Module 19 Part A](https://colab.research.google.com/drive/1YUlVYmZo-OCGPfTMZdaLDgvs9r21PF-j?usp=sharing) - Intro to Unsupervised Learning Models  
