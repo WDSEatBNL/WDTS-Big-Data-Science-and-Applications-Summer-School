@@ -32,8 +32,8 @@ The following boot camp modules will cover the basic numerical and machine learn
 [Module 12 Part A](https://colab.research.google.com/drive/1vR98Yr33iwiDEaCKUVbZrKh_aIc_IVWp?usp=sharing) - Intro to ML/AI Part A  
 [Module 12 Part B](https://colab.research.google.com/drive/1R4P39o2MAb1C1_IrjM0jsMcmjG6VpolS?usp=sharing) - Intro to ML/AI Part B  
 [Module 13](https://colab.research.google.com/drive/1OtS9Iuyr-rgT8k8IIkxa7aFOoSqOVpGe?usp=sharing) - Intro to scikit-learn and ML Workflow  
-Module 14 - Feature Engineering and Data Processing  
-Module 15 - Model Selection and Hyperparameter Tuning  
+[Module 14](https://colab.research.google.com/drive/14BYvXyDfxq-qukEjpNSJSz7GG4TrtWB9?usp=sharing) - Feature Engineering and Data Processing  
+[Module 15](https://colab.research.google.com/drive/1eA4LosRHl1yLCpDb8x5SAFKRpcdaKqYy?usp=sharing) - Model Selection and Hyperparameter Tuning  
 [Module 16](https://colab.research.google.com/drive/1qv5GvGXypJyn-VxV_goUmETjXno6flHV?usp=sharing) - Fundamentals of Regression  
 Module 17 - Fundamentals of Classification  
 [Module 18 Part A](https://colab.research.google.com/drive/1zkCcST1uvPLBBoe3z-o7sJ_ICwE1sPCR?usp=sharing) - Intro to Deep Neural Networks ([slides](https://docs.google.com/presentation/d/16p1BZdwpnv3WqqBYFD4kHb4-WS4vG8ZCKyFJ6oc1eX4/edit?usp=sharing))  
