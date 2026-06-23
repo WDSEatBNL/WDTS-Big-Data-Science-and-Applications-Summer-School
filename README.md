@@ -40,7 +40,7 @@ The following boot camp modules will cover the basic numerical and machine learn
 [Module 18 Part B](https://colab.research.google.com/drive/1B9pB64zy-DY1dOBuV6SnaVnVkeQY6Tww?usp=sharing) - Intro to Convolutional Neural Networks ([slides](https://docs.google.com/presentation/d/1DQoJV03QaPA_0xvZhy-Ts3EIm767njAcHOYnB16Lkxs/edit?usp=sharing))  
 [Module 19 Part A](https://colab.research.google.com/drive/1YUlVYmZo-OCGPfTMZdaLDgvs9r21PF-j?usp=sharing) - Intro to Unsupervised Learning Models  
 [Module 19 Part B](https://colab.research.google.com/drive/1OZligvPaOFlgTlRVSi1jekIGCZ5jIKHe?usp=sharing) - Unsupervised Learning Models Using AutoEncoders  
-Module 20 - Real-World Project Example 1  
+[Module 20](https://colab.research.google.com/drive/1Wm4fyDqiLb_lzKm-XJmK7l34HhuehC_b?usp=sharing) - Real-World Project Example 1 - EIC  
 [Module 21](https://colab.research.google.com/drive/13ndZW3uSS__amsRarEeHxzkoVic-kSGO?usp=sharing) - Real-World Project Example 2 - Exoplanets  
 
 ## Domain Science Activities
