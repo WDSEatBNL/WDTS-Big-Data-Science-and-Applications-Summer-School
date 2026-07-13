@@ -27,7 +27,7 @@ The following boot camp modules will cover the basic numerical and machine learn
 [Module 7](https://colab.research.google.com/drive/1acwQ8hl_2bpxYg5OqGoR4_kYvXednpZ6?usp=sharing) - Intro to pandas and Tabular Data Analysis  
 [Module 8](https://colab.research.google.com/drive/1h49ZbW9acz40eiOAo-o1sXFZ0mavQfmt?usp=sharing) - Intro to Plotting with matplotlib  
 [Module 9](https://colab.research.google.com/drive/160EZ97fEaqVSyvfrBY0l8Y5_-0au5A9B?usp=sharing) - Advanced Data Analysis and Visualization Techniques  
-[Module 10](https://colab.research.google.com/drive/1Gw0j23F-IectCkYIlcpNMYT_zL_OL7EC?usp=sharing)  - Demonstrations of Applied Use  ([Answers](https://colab.research.google.com/drive/1kvh9aaFE7wSh4t4uQDfm-Af05MB1nlR9?usp=sharing))  
+[Module 10](https://colab.research.google.com/drive/1Gw0j23F-IectCkYIlcpNMYT_zL_OL7EC?usp=sharing)  - Demonstrations of Applied Use  
 [Module 11](https://colab.research.google.com/drive/1IafNLVopzFQQa530skEcVTlWTHIAzCeQ?usp=sharing) - Intro to git  
 [Module 12 Part A](https://colab.research.google.com/drive/1vR98Yr33iwiDEaCKUVbZrKh_aIc_IVWp?usp=sharing) - Intro to ML/AI Part A  
 [Module 12 Part B](https://colab.research.google.com/drive/1R4P39o2MAb1C1_IrjM0jsMcmjG6VpolS?usp=sharing) - Intro to ML/AI Part B  
