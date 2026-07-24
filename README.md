@@ -43,4 +43,4 @@ The following boot camp modules will cover the basic numerical and machine learn
 [Module 20](https://colab.research.google.com/drive/1Wm4fyDqiLb_lzKm-XJmK7l34HhuehC_b?usp=sharing) - Real-World Project Example 1 - EIC  
 [Module 21](https://colab.research.google.com/drive/13ndZW3uSS__amsRarEeHxzkoVic-kSGO?usp=sharing) - Real-World Project Example 2 - Exoplanets  
 
-
+## Week 4 Domain Science Activities  
