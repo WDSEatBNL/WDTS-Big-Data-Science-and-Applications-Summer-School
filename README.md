@@ -41,6 +41,6 @@ The following boot camp modules will cover the basic numerical and machine learn
 [Module 19 Part A](https://colab.research.google.com/drive/1YUlVYmZo-OCGPfTMZdaLDgvs9r21PF-j?usp=sharing) - Intro to Unsupervised Learning Models  
 [Module 19 Part B](https://colab.research.google.com/drive/1OZligvPaOFlgTlRVSi1jekIGCZ5jIKHe?usp=sharing) - Unsupervised Learning Models Using AutoEncoders  
 [Module 20](https://colab.research.google.com/drive/1Wm4fyDqiLb_lzKm-XJmK7l34HhuehC_b?usp=sharing) - Real-World Project Example 1 - EIC  
-[Module 21](https://colab.research.google.com/drive/13ndZW3uSS__amsRarEeHxzkoVic-kSGO?usp=sharing) - Real-World Project Example 2 - Exoplanets  
+[Module 21](https://colab.research.google.com/drive/1t03wySQPtm9zX6_3UxOf7koYpjPBesgM?usp=sharing) - Real-World Project Example 2 - Exoplanets ([Practice](https://colab.research.google.com/drive/15TgUbO8xg35-cTDDPttgJtQbGBuYaXl-?usp=sharing))  
 
 ## Week 4 Domain Science Activities  
