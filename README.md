@@ -40,7 +40,7 @@ The following boot camp modules will cover the basic numerical and machine learn
 [Module 18 Part B](https://colab.research.google.com/drive/1B9pB64zy-DY1dOBuV6SnaVnVkeQY6Tww?usp=sharing) - Intro to Convolutional Neural Networks ([slides](https://docs.google.com/presentation/d/1DQoJV03QaPA_0xvZhy-Ts3EIm767njAcHOYnB16Lkxs/edit?usp=sharing)) ([Filled In](https://colab.research.google.com/drive/1p6F-ZsrYzX8baYkqBkk_WJrd6tdc904v?usp=sharing))  
 [Module 19 Part A](https://colab.research.google.com/drive/1YUlVYmZo-OCGPfTMZdaLDgvs9r21PF-j?usp=sharing) - Intro to Unsupervised Learning Models  
 [Module 19 Part B](https://colab.research.google.com/drive/1OZligvPaOFlgTlRVSi1jekIGCZ5jIKHe?usp=sharing) - Unsupervised Learning Models Using AutoEncoders  
-[Module 20](https://colab.research.google.com/drive/1Wm4fyDqiLb_lzKm-XJmK7l34HhuehC_b?usp=sharing) - Real-World Project Example 1 - EIC  
+[Module 20](https://colab.research.google.com/drive/1aMDsBPnvrbUah3bLbgIfcW_kN_qjSo2B?usp=sharing) - Real-World Project Example 1 - EIC  
 [Module 21](https://colab.research.google.com/drive/1t03wySQPtm9zX6_3UxOf7koYpjPBesgM?usp=sharing) - Real-World Project Example 2 - Exoplanets ([Practice](https://colab.research.google.com/drive/15TgUbO8xg35-cTDDPttgJtQbGBuYaXl-?usp=sharing))  
 
 ## Week 4 Domain Science Activities  
