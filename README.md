@@ -47,7 +47,7 @@ For module 20: 1aMDsBPnvrbUah3bLbgIfcW_kN_qjSo2B
 
 ## Week 4 Domain Science Activities  
 [Python Visualization Activity 1](https://colab.research.google.com/drive/13BcetPOhfcwlh_UHrycUzDgti57_9sp6?usp=sharing) - Paul Walter    downlowd data [here](https://drive.google.com/drive/folders/1Pij4NKBqEam1gMvEHgv3n8t66MwaUYEa?usp=drive_link)   
-[Python Visualization Activity 2](https://colab.research.google.com/drive/10zCFJF6K0eS-Rd5nHRqfzeKRRZWFnbc) - John Rausch    downlowd data [here](https://drive.google.com/drive/folders/1NlJSUO1jLVZh38RycUJIeMpHMF6c_dzA?usp=sharing)    
+[Python Visualization Activity 2](https://drive.google.com/drive/folders/1_nb1n7GJhpSWRx106gV9rJoq0pJAg3sQ) - John Rausch    downlowd data [here](https://drive.google.com/drive/folders/1NlJSUO1jLVZh38RycUJIeMpHMF6c_dzA?usp=sharing)    
 [Machine Learning Use Case in Environmental Science](https://drive.google.com/drive/folders/1mD2KNxc9iV1UIJVAdZ61wXPGaFvILrXI) -  Maria Zawadowicz
 
 
