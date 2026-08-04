@@ -50,7 +50,8 @@ For module 20: 1aMDsBPnvrbUah3bLbgIfcW_kN_qjSo2B
 [Python Visualization Activity 2](https://drive.google.com/drive/folders/1_nb1n7GJhpSWRx106gV9rJoq0pJAg3sQ) - John Rausch    downlowd data [here](https://drive.google.com/drive/folders/1NlJSUO1jLVZh38RycUJIeMpHMF6c_dzA?usp=sharing)    
 [Machine Learning Use Case in Environmental Science](https://drive.google.com/drive/folders/1mD2KNxc9iV1UIJVAdZ61wXPGaFvILrXI) -  Maria Zawadowicz
 
-[Nuclear Data Machine Learning Example](https://colab.research.google.com/drive/1xQOA9XDRGV56s6tWsKxpEFpLShaGi5Rv?usp=sharing)
+[Nuclear Data Machine Learning Example](https://colab.research.google.com/drive/1xQOA9XDRGV56s6tWsKxpEFpLShaGi5Rv?usp=sharing)  
 
+[Center for Functional Nanomaterials - Machine Learning Activity](https://colab.research.google.com/drive/1ISmx_lROeDwCzbrdMicAzNw1U2-opT8f?usp=sharing)
 
 
