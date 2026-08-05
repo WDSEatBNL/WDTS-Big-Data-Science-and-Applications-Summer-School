@@ -52,6 +52,5 @@ For module 20: 1aMDsBPnvrbUah3bLbgIfcW_kN_qjSo2B
 
 [Nuclear Data Machine Learning Example](https://colab.research.google.com/drive/1xQOA9XDRGV56s6tWsKxpEFpLShaGi5Rv?usp=sharing)  
 
-[Center for Functional Nanomaterials - Machine Learning Activity](https://colab.research.google.com/drive/1ISmx_lROeDwCzbrdMicAzNw1U2-opT8f?usp=sharing)
-
-
+[Center for Functional Nanomaterials - Machine Learning Activity](https://colab.research.google.com/drive/1ISmx_lROeDwCzbrdMicAzNw1U2-opT8f?usp=sharing)  
+https://github.com/gun310801/big-data-summer-school-cfn
