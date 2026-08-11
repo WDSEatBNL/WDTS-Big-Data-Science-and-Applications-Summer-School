@@ -57,6 +57,7 @@ https://github.com/gun310801/big-data-summer-school-cfn
 
 [sPHENIX TPC Colab Notebook - Yi Huang](https://colab.research.google.com/drive/1oHr2zy8CrM23AlhA2vGwnF0CZx0ejK7Z?usp=sharing)  
 
+## Final Project
 
 [Groups for Final Projects](https://brookhavenlab-my.sharepoint.com/:x:/g/personal/dtrieu_bnl_gov/IQCrbRLbo9wDS6gkZ3QuSRs2ARPtTp4FVo6GORbCw4ZvtYs?e=LlT1xL)
 
