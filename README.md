@@ -62,3 +62,7 @@ https://github.com/gun310801/big-data-summer-school-cfn
 [Groups for Final Projects](https://brookhavenlab-my.sharepoint.com/:x:/g/personal/dtrieu_bnl_gov/IQCrbRLbo9wDS6gkZ3QuSRs2ARPtTp4FVo6GORbCw4ZvtYs?e=LlT1xL)
 
 [Project Topics](https://brookhavenlab-my.sharepoint.com/:f:/g/personal/dtrieu_bnl_gov/IgB5PDTji6cNQIdzPsgbJm-UATE8Y_-cG7VJrPXYStVeF4c?e=4x9aAL). Note: the data itself isn't already in the folders because part of the project is about finding your data. This is just a list of topics with a little bit of info on how to find it. After discussing with your groups, email me at dtrieu@bnl.gov the top 3 topics you hope to work on. Note: every group needs a different topic so, depending on what other groups want to work on, you might be assigned a topic that's not even in your top 3 (sorry). 
+
+## Other
+
+[Coding Relay](https://urldefense.proofpoint.com/v2/url?u=https-3A__colab.research.google.com_drive_1NiGDCn0Ky-5FfR1PK0KsN8QYURnRmWMIgg-3Fusp-3Dsharing&d=DwMGaQ&c=CJqEzB1piLOyyvZjb8YUQw&r=PV1rE9FCYN2ruVU-4nBmLCsbNqWkVT_Ttbtdpvm9NOo&m=Eq5-WMiYhvD4Whr45-36re_FVpwmU6yzZJtgqka038P38dOPMQMV80Ve8YMvHlvz&s=LrnxI_RLsn89y1SOsHEpQQrjSV_iXST6yK206CJI3no&e=)
