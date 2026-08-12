@@ -66,3 +66,5 @@ https://github.com/gun310801/big-data-summer-school-cfn
 ## Other
 
 [Coding Relay](https://urldefense.proofpoint.com/v2/url?u=https-3A__colab.research.google.com_drive_1NiGDCn0Ky-5FfR1PK0KsN8QYURnRmWMIgg-3Fusp-3Dsharing&d=DwMGaQ&c=CJqEzB1piLOyyvZjb8YUQw&r=PV1rE9FCYN2ruVU-4nBmLCsbNqWkVT_Ttbtdpvm9NOo&m=Eq5-WMiYhvD4Whr45-36re_FVpwmU6yzZJtgqka038P38dOPMQMV80Ve8YMvHlvz&s=LrnxI_RLsn89y1SOsHEpQQrjSV_iXST6yK206CJI3no&e=)
+
+[Lightning Round](https://colab.research.google.com/drive/1HCvv_Zy6uLKCHHbbfFNHwV3_NA8swiNI?usp=sharing)
